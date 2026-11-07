@@ -1,0 +1,15 @@
+body{
+    background-color: #2b3a4a;
+    color:azure;
+    font-family: 'Segoe UI';
+    display: flex;
+    justify-content: center;
+     min-height: 100vh;
+    margin:0;
+}
+.container{
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+    padding:20px;
+}
